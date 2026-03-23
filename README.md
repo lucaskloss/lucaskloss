@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**lucaskloss/lucaskloss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas, an applied physics student at **EPFL** 🎓
 
-Here are some ideas to get you started:
+### 🔬 Interests & Specializations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Computational Physics** — numerical methods and simulations of physical systems
+- **Machine Learning** — applying ML techniques to scientific problems
+- **Atomic Scale Simulation** — with a focus on:
+  - Density Functional Theory (DFT)
+  - Molecular Dynamics (MD)
+
+### 🛠️ Skills
+
+- 🐍 **Python** — solid skills
+- ⚙️ **C++** — good working knowledge

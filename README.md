@@ -4,11 +4,8 @@ I'm Lucas, an applied physics student at **EPFL**
 
 ### Interests & Specializations
 
-- **Computational Physics** — numerical methods and simulations of physical systems
-- **Machine Learning** — applying ML techniques to scientific problems
-- **Atomic Scale Simulation** — with a focus on:
-  - Density Functional Theory (DFT)
-  - Molecular Dynamics (MD)
+- **Machine Learning** — NLP, CV, Data Science, ML in Physics
+- **Software Engineering** - API development in Python and C/C++
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaskloss) 

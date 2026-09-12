@@ -37,16 +37,6 @@ I enjoy developing scalable, readable, well-documented, and well-tested APIs and
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub activity
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%">
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.habits.svg" alt="Coding habits" width="49%">
-</p>
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lucaskloss)

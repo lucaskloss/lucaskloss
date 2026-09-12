@@ -9,7 +9,6 @@ I enjoy developing scalable, readable, well-documented, and well-tested APIs and
 - Python and C/C++ APIs, libraries, documentation, tests
 - Machine learning, computer vision, NLP, and data science
 - Scientific computing and physics simulations
-- Graphics programming and mathematical visualization
 - Basic frontend development with React
 
 ## Technologies
@@ -37,7 +36,6 @@ I enjoy developing scalable, readable, well-documented, and well-tested APIs and
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 
 ## GitHub activity
 
@@ -47,7 +45,6 @@ I enjoy developing scalable, readable, well-documented, and well-tested APIs and
 
 <p align="center">
   <img src="./metrics.plugin.habits.svg" alt="Coding habits" width="49%">
-  <img src="./metrics.plugin.activity.svg" alt="Recent activity" width="49%">
 </p>
 
 ## Connect

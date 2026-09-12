@@ -36,7 +36,3 @@ Aside from that I have experience writing scalable, readable, well-documented, a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/lucaskloss)

@@ -1,8 +1,6 @@
-# Hi, I'm Lucas 👋
-
 I am currently working on my master's thesis on the heat capacity of MOF-5 using machine-learning interatomic potentials and sparse automatic differentiation for efficient computation. The project can be found at my repo https://github.com/lucaskloss/mof-heat-capacity.
 
-Aside from that I have experience writing scalable, readable, well-documented, and well-tested APIs and libraries in Python and C/C++. I am also interested in contributing to open-source projects in computational physics, machine learning, and software engineering.
+Aside from that, I have experience writing scalable, readable, well-documented, and well-tested APIs and libraries in Python and C/C++. I am also interested in contributing to open-source projects in computational physics, machine learning, and software engineering.
 
 ## Current interests
 
